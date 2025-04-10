@@ -1,0 +1,123 @@
+Privacy Policy
+Last Updated: 4/7/2025
+This Privacy Policy explains how PhysiqueX AI ("we", "us", or "our") collects, uses, and protects your personal data when you use the PhysiqueX AI mobile application and related services ("Service"). By using our Service, you agree to the terms of this policy.
+1. Information We Collect
+We may collect the following types of information:
+A. Personal Information
+Name (if provided)
+
+
+Email address (if registering)
+
+
+Age and gender (optional, for personalization)
+B. Fitness and Goal-Related Data
+Your fitness goals and preferences
+
+
+Body measurements (if entered manually)
+
+
+Workout progress, routines, and performance data
+C. Image and Biometric Data
+Full-body or facial photos uploaded by you
+
+
+AI-generated data from those images (e.g., body proportions, fat distribution, muscle definition, symmetry, posture)
+
+
+These may contain biometric identifiers under privacy laws
+D. Device & Usage Data
+IP address, device type, operating system
+
+
+App usage metrics, interactions, and crash logs
+
+
+Session duration and feature usage
+2. How We Use Your Data
+We use your data to:
+Analyze your physique using AI
+
+
+Generate personalized workout plans and fitness feedback
+
+
+Track your progress and compare photo uploads over time
+
+
+Improve app performance and user experience
+
+
+Provide customer support and respond to inquiries
+
+
+Send service updates or offer subscription features (if opted in)
+3. Legal Basis for Processing
+Under GDPR (for users in the EU), our legal basis for collecting and using personal information includes:
+Your consent (when uploading images, creating an account, or enabling optional features)
+
+
+The performance of a contract (delivering fitness plans based on your input)
+
+
+Legitimate interests (app improvement, fraud prevention)
+
+
+Compliance with legal obligations
+4. Third-Party Services
+We may share or process your data through the following third-party platforms solely to provide the core functionality of the Service:
+OpenAI – For generating fitness feedback and recommendations
+
+
+Google Cloud (MediaPipe, Vision AI) – For analyzing body posture, proportions, or visual features
+
+
+Payment Providers (Apple, Stripe, etc.) – To manage billing and subscriptions
+
+
+Analytics Services (e.g., Firebase, Sentry) – For crash reporting and app performance metrics
+We do not sell or rent your personal data to any third parties.
+5. Data Storage and Retention
+Uploaded photos and fitness data are stored securely in encrypted databases.
+
+
+Your data will be retained only for as long as necessary to provide the Service.
+
+
+If you delete your account or request erasure, we will remove all personal and image data within 30 days, unless legally required to retain it.
+6. Your Rights
+Depending on your jurisdiction (e.g., under GDPR or CCPA), you may have the following rights:
+Access – Request a copy of your data
+
+
+Correction – Fix incorrect or incomplete information
+
+
+Deletion – Request data removal ("Right to be forgotten")
+
+
+Objection – Object to certain types of processing
+
+
+Portability – Request a copy of your data in a usable format
+To exercise any of these rights, please email us at: physique.ai@gmail.com
+7. Data Security
+We use a variety of security measures to protect your personal information, including:
+Encrypted cloud storage
+
+
+Secure transmission of image data
+
+
+Role-based access control for our team
+Despite our efforts, no system is 100% secure. You acknowledge and accept this risk.
+8. Children’s Privacy
+The app is not intended for children under 13 (or the age of digital consent in your country). We do not knowingly collect personal data from children.
+9. International Users
+If you access the Service from outside the United States, your data may be processed and stored in servers located in jurisdictions with different data protection laws than your own.
+10. Changes to This Policy
+We may update this Privacy Policy from time to time. You’ll be notified via email or in-app notification if significant changes occur. Continued use of the Service after updates means you accept the changes.
+11. Contact Us
+For any questions about this Privacy Policy or your data rights:
+ Email: physique.ai@gmail.com
